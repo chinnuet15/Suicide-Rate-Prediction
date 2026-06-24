@@ -71,6 +71,8 @@ The following regression models were trained and evaluated:
 - Bagging Regressor
 - XGBoost Regressor
 
+Models were evaluated using **R² Score** and **Root Mean Squared Error (RMSE)** to compare predictive performance.
+  
 ---
 
 ## Model Performance
