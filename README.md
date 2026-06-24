@@ -1,4 +1,4 @@
-# Suicide Rate Analysis Using Machine Learning
+# Suicide Rate Analysis and Prediction Using Machine Learning
 
 ## Project Overview
 
@@ -116,7 +116,7 @@ Ensemble learning models outperformed simpler regression algorithms.
 ```text
 Suicide-Rate-Prediction/
 │
-├── Suicide_Rate_Analysis.ipynb
+├── suicide_rate_prediction.ipynb
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
